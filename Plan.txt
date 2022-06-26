@@ -1,5 +1,5 @@
 1.[.] - Introduction
-2.[ ] - What we will learn
+2.[.] - What we will learn
 3.[ ] - Fun facts about react
 4.[ ] - first react 
 5.[ ] - First React Practice
