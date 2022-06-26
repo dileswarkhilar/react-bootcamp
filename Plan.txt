@@ -1,0 +1,13 @@
+1.[ ] - Introduction
+2.[ ] - What we will learn
+3.[ ] - Fun facts about react
+4.[ ] - first react 
+5.[ ] - First React Practice
+6.[ ] - Local Setup (The Quick Way)
+7.[ ] - Why React ?
+8.[ ] - JSX
+9.[ ] - Goodbye, CDNS
+10.[ ] - Throught Experiments
+11. [ ] - Project 1 Part 1 - Mark up
+12. [ ] - Pop Quiz
+13. [ ] - Componets
